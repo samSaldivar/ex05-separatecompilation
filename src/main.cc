@@ -5,5 +5,5 @@
 using namespace edu::vcccd::vc::csv13::A;
 
 int main() {
-    std::cout << f()<< " " << g();
+    std::cout << f() << " " << g();
 }
